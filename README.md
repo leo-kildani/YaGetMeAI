@@ -7,7 +7,7 @@ It is designed to remove language barriers without removing the human conversati
 
 Several people on our team have lived the language-barrier problem at full stakes:
 
-- Daniel's Vietnamese-speaking parents have hit dead-ends with government offices.
+- Daniel's Vietnamese-speaking parents have hit dead-ends with internet service providers.
 - Leo's Arabic-speaking family has struggled to get timely, accurate help in medical settings.
 - Dylan's Malayalam-speaking parents have dealt with awkward three-way calls with rushed interprertations, leading to simply giving up when no proper translation was available.
 - Ivan's Spanish-speaking parents have struggled to communicate with large retail stores.
