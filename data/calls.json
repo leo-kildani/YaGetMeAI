@@ -64,5 +64,83 @@
       }
     ],
     "summary": "The caller urgently reported that his wife fell and hit her head but does not speak English. He provided the address as 2458 Maple Street, Apartment, San Jos\u00e9. The recipient assured him help is being dispatched immediately and instructed him to stay calm and remain on the line while providing details about the incident. The call focused on getting emergency assistance quickly to the location."
+  },
+  {
+    "call_id": "1ebd81f39a1b4cf99b60a87e3128c8ba",
+    "session_id": "5398574f81714bf3954a7c9da5400234",
+    "started_at": "2026-03-01T13:19:55.063944+00:00",
+    "ended_at": "2026-03-01T13:21:17.225776+00:00",
+    "duration_seconds": 82.161832,
+    "caller_lang": "es",
+    "recipient_lang": "en",
+    "segments": [
+      {
+        "role": "caller",
+        "original": "Hola hola",
+        "translated": "Hello hello",
+        "ts": "2026-03-01T13:20:14.225497+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "No me hablo ingl\u00e9s.",
+        "translated": "I don't speak English.",
+        "ts": "2026-03-01T13:20:15.523570+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "Y mi esposa se cay\u00f3 en su cabeza.",
+        "translated": "And my wife fell on her head.",
+        "ts": "2026-03-01T13:20:20.661035+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "I'm so sorry to hear that.",
+        "translated": "Lamento mucho escuchar eso.",
+        "ts": "2026-03-01T13:20:28.897574+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Is she okay?",
+        "translated": "\u00bfEst\u00e1 bien?",
+        "ts": "2026-03-01T13:20:28.974461+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Please send me your address.",
+        "translated": "Por favor env\u00edame tu direcci\u00f3n.",
+        "ts": "2026-03-01T13:20:32.780179+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "Es dos, cuatro, cinco, ocho Maple Street",
+        "translated": "It's two, four, five, eight Maple Street",
+        "ts": "2026-03-01T13:20:42.248804+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "Los aparmentos en San Jose.",
+        "translated": "The apartments in San Jose.",
+        "ts": "2026-03-01T13:20:44.436731+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Okay, i'm sending help right now.",
+        "translated": "Bien, estoy enviando ayuda ahora mismo.",
+        "ts": "2026-03-01T13:20:53.575398+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "For right now, can you tell me if she's breathing okay?",
+        "translated": "Por ahora, \u00bfpuedes decirme si respira bien?",
+        "ts": "2026-03-01T13:20:56.599741+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "Si est\u00e1 respirando bien y sus ojos est\u00e1n abridos.",
+        "translated": "If you are breathing well and your eyes are open.",
+        "ts": "2026-03-01T13:21:08.879476+00:00"
+      }
+    ],
+    "summary": "The caller, who does not speak English, reported that his wife fell and hit her head. The recipient expressed concern and requested the caller's address, which was provided as 2458 Maple Street, apartments in San Jose. The recipient is sending help immediately and asked if the wife is breathing and conscious, to which the caller confirmed she is breathing well and her eyes are open."
   }
 ]
