@@ -12,6 +12,7 @@ Several people on our team have lived the language-barrier problem at full stake
 - Dylan's Malayalam-speaking parents have dealt with awkward three-way calls with rushed interprertations, leading to simply giving up when no proper translation was available.
 - Ivan's Spanish-speaking parents have struggled to communicate with large retail stores.
 - Arman's Punjabi-speaking grandparents have struggled to communicate clearly with banks and financial institutions.
+- Ryan's Tamil-speaking grandparents have had issues with speaking with medical offices on the phone.
 
 We kept seeing the same pattern: when language breaks, human connection breaks, and phone calls become stressful, slow, and error-prone.
 
