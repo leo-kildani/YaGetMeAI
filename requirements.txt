@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+websockets
+twilio
+googletrans==4.0.2
+elevenlabs
+python-dotenv
+audioop-lts
+grpcio
+grpcio-tools
+# Python 3.14 note: install without dependency resolution if wheel conflicts:
+#   pip install --no-deps nvidia-riva-client
+nvidia-riva-client
