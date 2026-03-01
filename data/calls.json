@@ -1,0 +1,68 @@
+[
+  {
+    "call_id": "87ff2623a64244eca9033fe71e3ec59f",
+    "session_id": "7a892b6ee01e44e8b22709edd0c5342f",
+    "started_at": "2026-03-01T12:04:23.524063+00:00",
+    "ended_at": "2026-03-01T12:05:33.159402+00:00",
+    "duration_seconds": 69.635339,
+    "caller_lang": "es",
+    "recipient_lang": "en",
+    "segments": [
+      {
+        "role": "caller",
+        "original": "Ay\u00fadame, ay\u00fadame. No hablo ingl\u00e9s y mi esposa cay\u00f3",
+        "translated": "Help me, help me. I don't speak English and my wife fell",
+        "ts": "2026-03-01T12:04:49.164120+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "A su cabeza",
+        "translated": "to your head",
+        "ts": "2026-03-01T12:04:50.359652+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "I'm here to help.",
+        "translated": "Estoy aqu\u00ed para ayudar.",
+        "ts": "2026-03-01T12:04:58.412687+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "I want you to stay calm. What is your exact address?",
+        "translated": "Quiero que mantengas la calma. \u00bfCu\u00e1l es tu direcci\u00f3n exacta?",
+        "ts": "2026-03-01T12:05:02.052600+00:00"
+      },
+      {
+        "role": "caller",
+        "original": "Es dos, cuatro, cinco, ocho Maple Street, Aparmento, San Jos\u00e9.",
+        "translated": "It's two, four, five, eight Maple Street, Aparmento, San Jos\u00e9.",
+        "ts": "2026-03-01T12:05:15.104289+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "I got it.",
+        "translated": "Lo tengo.",
+        "ts": "2026-03-01T12:05:23.014354+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Help is being sent now.",
+        "translated": "Se est\u00e1 enviando ayuda ahora.",
+        "ts": "2026-03-01T12:05:24.573468+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Now don't hang up.",
+        "translated": "Ahora no cuelgues.",
+        "ts": "2026-03-01T12:05:26.113113+00:00"
+      },
+      {
+        "role": "recipient",
+        "original": "Tell me exactly what happened.",
+        "translated": "Cu\u00e9ntame exactamente qu\u00e9 pas\u00f3.",
+        "ts": "2026-03-01T12:05:27.866707+00:00"
+      }
+    ],
+    "summary": "The caller urgently reported that his wife fell and hit her head but does not speak English. He provided the address as 2458 Maple Street, Apartment, San Jos\u00e9. The recipient assured him help is being dispatched immediately and instructed him to stay calm and remain on the line while providing details about the incident. The call focused on getting emergency assistance quickly to the location."
+  }
+]
